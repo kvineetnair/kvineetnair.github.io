@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+Screenshot 2026-10-04 at 2.09.32 PM.png
